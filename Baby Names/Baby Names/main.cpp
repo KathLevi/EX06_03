@@ -55,4 +55,6 @@ int main(){
     }
     else
         cout << "The name " << name << " is not ranked in year " <<year;
+    
+    babenames.close();
 }
